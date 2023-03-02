@@ -18,8 +18,8 @@ School/College Management System
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 🐍 Watch the snake devour my contributions.
+![snake gif](https://github.com/DesAnshuJoshi/DesAnshuJoshi/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DesAnshuJoshi&icon=5&color=3)](https://visitcount.itsvg.in)
